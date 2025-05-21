@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Studied Computer Science at Taibah University<br>👨‍💻 Interested in Data Engineering & Big Data<br>🛠️Building data pipelines and writing clean code</p>
+<p align="left">🎓 Studied Computer Science at Taibah University<br>👨‍💻 Interested in Data Engineering & Big Data<br>🛠️ Building data pipelines and writing clean code</p>
 
 ###
 
